@@ -90,3 +90,5 @@ const AIAnalysis = () => {
 };
 
 export default AIAnalysis;
+
+//cambio de chatInput
