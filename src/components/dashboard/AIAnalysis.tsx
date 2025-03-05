@@ -1,3 +1,5 @@
+//cambio de chatInput
+
 import { Text, VStack, HStack, Input, Box } from "@chakra-ui/react";
 import { FaRegUser } from "react-icons/fa"; 
 import { IoPaperPlaneOutline } from "react-icons/io5"; 
@@ -91,4 +93,3 @@ const AIAnalysis = () => {
 
 export default AIAnalysis;
 
-//cambio de chatInput
